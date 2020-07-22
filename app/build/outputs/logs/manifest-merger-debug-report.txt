@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6f1f143c9c2859c04d1a989dffae72d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\91b44932e87601b6e8aedf3fa28ea9e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9abd1d17e2c1df465c2aa736d6c0fbe2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\5cb3a5b46ff20036e99ecb054acbcd75\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\61bb31032f7a93b3488eacdcaff47511\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\33c4ba500de708074b88999e2e414794\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c223b1f7b40afa686e9080dc94857d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7f1187d9ee1aaf1e5ff3645535575951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ab95f2d6e1e2bacbd926df7ac48f3d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9848fde6fbaa5b1a8caed3f7b1e439ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72031f5d187c0838e8969cfc53b23b6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\403e7000894da243bb956fa2714b78e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8c1dc7836b5ca2e8236f737b9c54e169\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\666ae84831453fd2f8162b3cf74dcee9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db8482db49eeca412892a3ff96780288\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7fb981fb90a504be73295804c3ea613d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6d7c1795c7e2ef28da1c05a78d21c009\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eb9a0a873849595e1202393794725de3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0f3d967250a30e69f7f85def437616bf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\5cb3a5b46ff20036e99ecb054acbcd75\AndroidManifest.xml:11:5-13:38
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\5cb3a5b46ff20036e99ecb054acbcd75\AndroidManifest.xml:11:5-13:38
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\33c4ba500de708074b88999e2e414794\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\33c4ba500de708074b88999e2e414794\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.jayati.myrecyclerview.MainActivity
+ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6f1f143c9c2859c04d1a989dffae72d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6f1f143c9c2859c04d1a989dffae72d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\91b44932e87601b6e8aedf3fa28ea9e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\91b44932e87601b6e8aedf3fa28ea9e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9abd1d17e2c1df465c2aa736d6c0fbe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9abd1d17e2c1df465c2aa736d6c0fbe2\AndroidManifest.xml:20:5-44
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\5cb3a5b46ff20036e99ecb054acbcd75\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\5cb3a5b46ff20036e99ecb054acbcd75\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\61bb31032f7a93b3488eacdcaff47511\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\61bb31032f7a93b3488eacdcaff47511\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\33c4ba500de708074b88999e2e414794\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\33c4ba500de708074b88999e2e414794\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c223b1f7b40afa686e9080dc94857d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c223b1f7b40afa686e9080dc94857d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7f1187d9ee1aaf1e5ff3645535575951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7f1187d9ee1aaf1e5ff3645535575951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ab95f2d6e1e2bacbd926df7ac48f3d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ab95f2d6e1e2bacbd926df7ac48f3d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9848fde6fbaa5b1a8caed3f7b1e439ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9848fde6fbaa5b1a8caed3f7b1e439ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72031f5d187c0838e8969cfc53b23b6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72031f5d187c0838e8969cfc53b23b6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\403e7000894da243bb956fa2714b78e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\403e7000894da243bb956fa2714b78e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8c1dc7836b5ca2e8236f737b9c54e169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8c1dc7836b5ca2e8236f737b9c54e169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\666ae84831453fd2f8162b3cf74dcee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\666ae84831453fd2f8162b3cf74dcee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db8482db49eeca412892a3ff96780288\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db8482db49eeca412892a3ff96780288\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7fb981fb90a504be73295804c3ea613d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7fb981fb90a504be73295804c3ea613d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6d7c1795c7e2ef28da1c05a78d21c009\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6d7c1795c7e2ef28da1c05a78d21c009\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eb9a0a873849595e1202393794725de3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eb9a0a873849595e1202393794725de3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0f3d967250a30e69f7f85def437616bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jayati\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0f3d967250a30e69f7f85def437616bf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jayati\AndroidStudioProjects\MyRecyclerView\app\src\main\AndroidManifest.xml
